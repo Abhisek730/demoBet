@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/demoBet/static/css/main.86f72428.css",
+    "main.js": "/demoBet/static/js/main.97916d40.js",
+    "static/js/787.da008ac8.chunk.js": "/demoBet/static/js/787.da008ac8.chunk.js",
+    "static/media/blue_sound.mp3": "/demoBet/static/media/blue_sound.322661bd4619337e8e78.mp3",
+    "static/media/red_sound.mp3": "/demoBet/static/media/red_sound.aa66be5ede3f386ef653.mp3",
+    "static/media/logo.svg": "/demoBet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/demoBet/index.html",
+    "main.86f72428.css.map": "/demoBet/static/css/main.86f72428.css.map",
+    "main.97916d40.js.map": "/demoBet/static/js/main.97916d40.js.map",
+    "787.da008ac8.chunk.js.map": "/demoBet/static/js/787.da008ac8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86f72428.css",
+    "static/js/main.97916d40.js"
+  ]
+}
